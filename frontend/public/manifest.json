@@ -1,0 +1,17 @@
+{
+  "name": "EduSentinel AI",
+  "short_name": "EduSentinel",
+  "description": "Intelligent student success and early intervention platform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F8FA",
+  "theme_color": "#181D26",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
